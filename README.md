@@ -18,5 +18,6 @@ git config --global user.name "Your Name"
 
 
 ##Push:上傳至github
+###git push
 
 
