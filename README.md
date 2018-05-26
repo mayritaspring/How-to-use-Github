@@ -12,6 +12,6 @@
 #### > 1.git status: 可以看該資料夾裡面多增加了什麼
 #### > 2.git add .: 把整個資料夾更新全部放至暫存區
 #### > 3.git commit -m "add foodsoup.py": 把檔案丟至暫存區，""裡面放本次更動敘述
-#### > 4.git push:上傳至github
+> #### 4.git push:上傳至github
 
 
