@@ -15,4 +15,6 @@
 > #### 4.git push: 上傳至github
 > #### 5.git pull: 如有同一人共同編輯同一個repository，push的時候就會出現rejected，此時就會需要用pull指令把github上面有變動的部分pull下來，才有辦法push新的東西上去
 
+## Markdown
+- ### CheatSheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
