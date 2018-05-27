@@ -13,5 +13,6 @@
 > #### 2.git add .: 把整個資料夾更新全部放至暫存區
 > #### 3.git commit -m "add foodsoup.py": 把檔案丟至暫存區，""裡面放本次更動敘述
 > #### 4.git push:上傳至github
+> #### 5.git pull:如有同一人共同編輯同一個repository，push的時候就會出現rejected，此時就會需要用pull指令把github上面有變動的部分pull下來，才有辦法push新的東西上去
 
 
